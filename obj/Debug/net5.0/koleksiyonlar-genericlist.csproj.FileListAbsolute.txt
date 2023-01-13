@@ -1,0 +1,16 @@
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-genericlist\bin\Debug\net5.0\koleksiyonlar-genericlist.exe
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-genericlist\bin\Debug\net5.0\koleksiyonlar-genericlist.deps.json
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-genericlist\bin\Debug\net5.0\koleksiyonlar-genericlist.runtimeconfig.json
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-genericlist\bin\Debug\net5.0\koleksiyonlar-genericlist.runtimeconfig.dev.json
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-genericlist\bin\Debug\net5.0\koleksiyonlar-genericlist.dll
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-genericlist\bin\Debug\net5.0\koleksiyonlar-genericlist.pdb
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-genericlist\obj\Debug\net5.0\koleksiyonlar-genericlist.csproj.AssemblyReference.cache
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-genericlist\obj\Debug\net5.0\koleksiyonlar-genericlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-genericlist\obj\Debug\net5.0\koleksiyonlar-genericlist.AssemblyInfoInputs.cache
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-genericlist\obj\Debug\net5.0\koleksiyonlar-genericlist.AssemblyInfo.cs
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-genericlist\obj\Debug\net5.0\koleksiyonlar-genericlist.csproj.CoreCompileInputs.cache
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-genericlist\obj\Debug\net5.0\koleksiyonlar-genericlist.dll
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-genericlist\obj\Debug\net5.0\refint\koleksiyonlar-genericlist.dll
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-genericlist\obj\Debug\net5.0\koleksiyonlar-genericlist.pdb
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-genericlist\obj\Debug\net5.0\koleksiyonlar-genericlist.genruntimeconfig.cache
+C:\Users\tekta\OneDrive\Masaüstü\Pratikler\koleksiyonlar-genericlist\obj\Debug\net5.0\ref\koleksiyonlar-genericlist.dll

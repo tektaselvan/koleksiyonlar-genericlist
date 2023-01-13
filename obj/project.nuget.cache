@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O9W1NL0hZjRQ4Z7RaBHWO0ruhsI2Xdz81MInHzdOeF0UhNMmJSDviOyya4JUr5gszburD2NrSyO1004lxzeMHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tekta\\OneDrive\\Masaüstü\\Pratikler\\koleksiyonlar-genericlist\\koleksiyonlar-genericlist.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tekta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
